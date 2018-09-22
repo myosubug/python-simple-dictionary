@@ -8,6 +8,8 @@ def dictionary(w):
         return data[w]
     elif w.title() in data:
         return data[w.title()]
+    elif w.upper() in data:
+        return data[w.upper()]
     elif len(get_close_matches(w, data.keys())):
         yn = input("did you mean '%s'? Enter Y/y if yes, N/n if no.\n" % get_close_matches(w, data.keys())[0])
         if yn == "Y" or yn =="y":
