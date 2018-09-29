@@ -15,7 +15,7 @@ Resources and directions were made based on googling
 
 ### Installing
 
-Installing can be searched on google.
+N/A
 
 ## Running the tests
 
