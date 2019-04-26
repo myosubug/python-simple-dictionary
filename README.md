@@ -1,7 +1,6 @@
 # simple python dictionary
 
-A sample dictionary application by using basics of python I studied.
-I am using a data.json file as my source for the dictionary operation and
+A simple dictionary application that can search words with or without captial letters.
 
 ## Installing
 
