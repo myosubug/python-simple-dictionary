@@ -5,6 +5,9 @@ A simple dictionary application that can search words with or without captial le
 ## Installing
 
 * installation not required.
+
+## How to run
+
 * will have to run app.py file by using "python3 app.py" command on terminal.
 
 ## Built With
